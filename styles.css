@@ -1,0 +1,97 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  background-color: hsl(0, 0%, 98%);
+  position: relative;
+}
+
+.par-one {
+  text-align: center;
+  width: auto;
+  margin: 4rem auto 0;
+  font-size: 2rem;
+}
+
+.par-two {
+  text-align: center;
+  width: auto;
+  margin-top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.par-three {
+  text-align: center;
+  width: 33rem;
+  margin: auto;
+  padding-bottom: 5rem;
+}
+
+.ractangle-supervisor {
+  height: 15rem;
+  width: 20rem;
+  border-radius: 0.5rem;
+  background-color: white;
+  padding-left: 2rem;
+  box-shadow: 1rem 1rem 1rem #e5e5e5;
+  position: absolute;
+  left: 6rem;
+  top: 23rem;
+  border-top-style: solid;
+  border-color: hsl(180, 62%, 55%);
+}
+
+.ractangle-team-builder {
+  height: 15rem;
+  width: 20rem;
+  border-radius: 0.5rem;
+  background-color: white;
+  padding-left: 2rem;
+  box-shadow: 1rem 1rem 1rem #e5e5e5;
+  position: absolute;
+  left: 30rem;
+  top: 15rem;
+  border-top-style: solid;
+  border-color: hsl(0, 78%, 62%);
+}
+
+.ractangle-karma {
+  height: 15rem;
+  width: 20rem;
+  border-radius: 0.5rem;
+  background-color: white;
+  padding-left: 2rem;
+  box-shadow: 1rem 1rem 1rem #e5e5e5;
+  position: absolute;
+  left: 30rem;
+  top: 33rem;
+  margin-bottom: 5rem;
+  border-top-style: solid;
+  border-color: hsl(34, 97%, 64%);
+}
+
+.ractangle-calculator {
+  height: 15rem;
+  width: 20rem;
+  border-radius: 0.5rem;
+  background-color: white;
+  padding-left: 2rem;
+  box-shadow: 1rem 1rem 1rem #e5e5e5;
+  position: absolute;
+  right: 7rem;
+  top: 23rem;
+  border-top-style: solid;
+  border-color: hsl(212, 86%, 64%);
+}
+
+img {
+  float: right;
+  padding: 2rem;
+}
+
+footer {
+  position: absolute;
+  left:31rem;
+  top:51rem;
+  text-align: center;
+}
